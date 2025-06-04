@@ -1,0 +1,12 @@
+.box1 {
+    border: solid black;
+    background-color: solid red;
+    width: 100px;
+    height: 100px;
+}
+.box2 {
+    border: solid purple;
+    fill: solid goldenrod;
+    width: 100px;
+    height: 100px;
+} 
